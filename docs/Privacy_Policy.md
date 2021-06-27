@@ -30,7 +30,7 @@ IDs and icons/avatars. This data cannot be deleted by us as there is no feasible
 way to do so.
 
 The staff of the servers the bot is in have control over if logs are sent, in
-what channel they are sent and who has permission to see thes channels.
+what channel they are sent and who has permission to see these channels.
 
 ## Requesting Data Deletion
 
