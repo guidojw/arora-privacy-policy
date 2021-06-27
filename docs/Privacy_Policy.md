@@ -23,14 +23,14 @@ such as role colors, names, user tags, user flags (badges). Most of this content
 is used to provide logs or command output, and is deleted on bot shutdown, as it
 is put into a volatile storage.
 
-The staff of the servers the bot is in have control over if logs are sent, in 
-what channel they are sent and who has permission to see this channel.
-
 ## Stored in Discord
 
 Output of bot commands that is sent to Discord may include things like names, 
 IDs and icons/avatars. This data cannot be deleted by us as there is no feasible
-way to do so. Staff of the servers the bot is in have access to these logs.
+way to do so.
+
+The staff of the servers the bot is in have control over if logs are sent, in
+what channel they are sent and who has permission to see thes channels.
 
 ## Requesting Data Deletion
 
